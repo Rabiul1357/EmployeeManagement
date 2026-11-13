@@ -1,8 +1,8 @@
 # Employee Management Portal
 
 ## Project Description
-This project is designed to manage employee records
-and information efficiently.
+This project uses REST API architecture to manage
+employee records and information efficiently.
 
 ## Installation
 1. Clone the repository.
